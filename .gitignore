@@ -28,3 +28,4 @@ dist-ssr
 docs/CREDENTIALS.md
 CLAUDE.local.md
 supabase/.temp/
+.vercel
