@@ -1,0 +1,6 @@
+docs/CREDENTIALS.md
+CLAUDE.local.md
+.env
+.env.local
+.env*.local
+supabase/.temp/
